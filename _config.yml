@@ -6,7 +6,7 @@
 name: airizse
 
 # Short bio or description (displayed in the header)
-description: Zs. (a baneling)
+description: Zs. (a very slow baneling)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/airizse/airizse.github.io/master/images/airizse-logo.jpg
@@ -21,8 +21,8 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: airizse/jekyll-now
+  instagram: airizse
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
