@@ -21,6 +21,7 @@ I had a really bad 2 year stop at drawing because, well, let's say I lost my tou
 ### Contact me (wut)
 I have dis: <a href="https://www.instagram.com/airizse/ "> My instagram </a>
 <br/>
-And dis: https://disqus.com/by/airizse/
+And dis: <a href="https://disqus.com/by/airizse/"> My disqus </a>
+<br/>
 
 If you want to get in touch with me. :^)
