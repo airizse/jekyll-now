@@ -19,7 +19,7 @@ I enjoy cooking and picked up photography a couple of years ago. (I like eating 
 I had a really bad 2 year stop at drawing because, well, let's say I lost my touche... I believe that to improve my skills at anything, I need to be better at putting myself out there and discipline (lol). It's a laid back place in the internet where I can drag and drop things, so expect some humour, blog posts, and salt.
 
 ### Contact me (wut)
-I have dis: https://www.instagram.com/airizse/
+I have dis: <a href="https://www.instagram.com/airizse/ ">https://www.instagram.com/airizse/ </a>
 <br/>
 And dis: https://disqus.com/by/airizse/
 
