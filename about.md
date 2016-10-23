@@ -9,7 +9,7 @@ Who me?
 ### My username's Airizse, nice to meet you!
 
 I study Business Information Systems somwhere in the world.
-I started to draw in a more "serious" manner was after I saw my first anime on TV. I was about, 5 years old at that moment. Ever since, drawing has always been the best way for me to stay in touche with who I am and how I am.
+I started to draw in a more "serious" manner when I saw my first anime on TV. I was about, 5 years old at that moment. Ever since, drawing has always been the best way for me to stay in touche with who I am and how I am.
 
 I grew up since then, I am going though the second decade in my life.
 Thanks to many encounters in my life, I developed many different hobbies.
